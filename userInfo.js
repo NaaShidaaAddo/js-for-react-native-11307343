@@ -18,3 +18,4 @@ const formattedArrayStrings = ["ama", "SENA", "whitfield", "SEANA", "dokdo"];
 
 const userProfiles = createUserProfiles(stringArray, formattedArrayStrings);
 console.log(userProfiles); 
+
